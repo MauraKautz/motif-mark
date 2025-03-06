@@ -5,7 +5,8 @@ Maura Kautz, March 2025
 
 Motif mark is an object oriented program used to visualize motifs along genes. The tool takes a fasta file and a motif text file, then generates a .png figure illustrating where motifs were identified in each fasta record. An example figure is shown below:
 
-***EXAMPLE IMAGE***
+![image](https://github.com/user-attachments/assets/e380eab9-f3a4-440e-b24b-5beaabf0aed5)
+
 
 Boxes on the genes represent exons, while the different colored lines represent different motifs.
 

@@ -17,7 +17,7 @@ The output of this tool is a .png file containing the cairo figure drawn with th
 
 ## Installation and Usage
 
-To use motif mark, the user will need ```motif-mark.py```, a fasta file, a motif text file, and the appropriate conda environment.
+To use motif mark, the user will need ```motif-mark-oop.py```, a fasta file, a motif text file, and the appropriate conda environment.
 
 Conda Environment:
 
